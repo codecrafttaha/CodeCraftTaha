@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/b3/65/af/b365af02734efdf8cea73f0eff2f8920.jpg" alt="MasterHead" width="600"/>
 </p>
 
-<h1 align="center">Merhabalar, ben Taha Öztürk</h1>
+<h1 align="center">Merhabalar, ben Taha</h1>
 <h3 align="center">Türkiye’den tutkulu bir  geliştirici</h3>
 
 <p align="center">
