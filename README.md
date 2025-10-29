@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">Merhabalar, ben Taha Öztürk</h1>
-<h3 align="center">Türkiye’den tutkulu bir Python geliştiricisi</h3>
+<h3 align="center">Türkiye’den tutkulu bir  geliştirici</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codecrafttaha&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="codecrafttaha" />
 </p>
 
 <p align="center">
-  🔭 Aktif olarak <a href="https://nediyo.net">nediyo.net</a> projesini geliştiriyorum.<br>
-  💬 Bana sorabileceğiniz konular: <b>Python, web geliştirme, yaratıcı projeler, öğrenme süreci</b><br>
+  🔭 Aktif olarak farklı projeler geliştiriyorum.<br>
+  💬 Bana sorabileceğiniz konular: <b>Java, web geliştirme, yaratıcı projeler, öğrenme süreci</b><br>
   📫 Bana ulaşmak için: <b>tahaozturk.creative@gmail.com</b><br>
   ⚡ Kısa bir not: <b>Günün bir kısmını kod yazarak, bir kısmını spor salonunda geçiriyorum.</b>
 </p>
@@ -31,7 +31,6 @@
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
   <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
 </p>
 
 <h3 align="center">Destek Ol</h3>
