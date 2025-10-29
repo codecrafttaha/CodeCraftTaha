@@ -45,12 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecrafttaha&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafttaha" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2b/c1/4e/2bc14ee1d294744129a92c8dd3c4b075.gif" alt="MasterHead" width="600"/>
+  <img src="[https://i.pinimg.com/originals/2b/c1/4e/2bc14ee1d294744129a92c8dd3c4b075.gif](https://i.pinimg.com/736x/28/85/44/288544d202c6a2250d79718edfaab0aa.jpg)" alt="MasterHead" width="600"/>
 </p>
