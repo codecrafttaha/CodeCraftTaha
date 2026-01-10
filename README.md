@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  🔭 Aktif olarak farklı projeler geliştiriyorum.<br>
-  💬 Bana sorabileceğiniz konular: <b>Java, web geliştirme, yaratıcı projeler, öğrenme süreci</b><br>
+  🔭 Aktif olarak farklı projeler geliştiriyorum.<br>-
   📫 Bana ulaşmak için: <b>tahaozturk.creative@gmail.com</b><br>
   ⚡ Kısa bir not: <b>Günün bir kısmını kod yazarak, bir kısmını spor salonunda geçiriyorum.</b>
 </p>
