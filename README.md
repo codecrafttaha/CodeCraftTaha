@@ -140,7 +140,3 @@ Proje iskeleti, build yardımcıları, log izleme<br>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/28/85/44/288544d202c6a2250d79718edfaab0aa.jpg" width="800" alt="footer"/>
-</p>
