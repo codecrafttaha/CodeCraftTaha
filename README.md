@@ -38,10 +38,10 @@
 <h2 align="center">🧠 Hakkımda</h2>
 
 <p align="center">
-🚀 Yüksek performanslı C++ sistemleri geliştiriyorum<br>
-🧩 Önceliğim: Okunabilirlik + Hız + Ölçülebilir Performans<br>
-📊 Profiling, CI, test ve benchmark kültürüyle çalışırım<br>
-🏋️ Üretmek ve spor yapmak günlük rutinimin parçası
+🚀 Yüksek performanslı C++ sistemleri geliştiriyorum.<br>
+🧩 Önceliğim: okunabilirlik, hız ve ölçülebilir performans.<br>
+📊 Profiling, CI süreçleri, test ve benchmark kültürüyle çalışırım.<br>
+🏋️ Üretmek ve spor yapmak günlük rutinimin bir parçasıdır.
 </p>
 
 ---
@@ -51,13 +51,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-Derleme-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Sunucu%2FOrtam-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Versiyonlama-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Sunucu%2FGeli%C5%9Ftirme-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Versiyon%20Kontrol-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-Da%C4%9F%C4%B1t%C4%B1m-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profiling-perf%20%7C%20valgrind%20%7C%20sanitizers-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profiling-perf%20%7C%20valgrind%20%7C%20sanitizer-222222?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Test-gtest%20%7C%20benchmark-222222?style=for-the-badge"/>
 </p>
 
@@ -70,13 +70,13 @@
 RAII • Move Semantics • Template Metaprogramming • Concurrency<br><br>
 
 ⚡ <b>Performans Mühendisliği</b><br>
-Benchmark Tasarımı • Profiling • Cache-Friendly Design • Lock-Free Yaklaşım<br><br>
+Benchmark tasarımı • Profiling • Cache-friendly tasarım • Lock-free yaklaşımlar<br><br>
 
 🏗️ <b>Yazılım Mimarisi</b><br>
-Modüler Tasarım • Net Bağımlılık Sınırları • Sürdürülebilir API Yapısı<br><br>
+Modüler tasarım • Net bağımlılık sınırları • Sürdürülebilir API yapısı<br><br>
 
 🚀 <b>Teslimat Süreçleri</b><br>
-CI/CD • Kod İnceleme • Dokümantasyon • Reproducible Build
+CI/CD • Kod inceleme • Dokümantasyon • Tekrarlanabilir build süreçleri
 </p>
 
 ---
@@ -85,27 +85,27 @@ CI/CD • Kod İnceleme • Dokümantasyon • Reproducible Build
 
 <p align="center">
 ⚡ <b>Düşük Gecikmeli Mesajlaşma Altyapısı (C++20)</b><br>
-Zero-copy veri akışı, backpressure kontrolü, benchmark altyapısı<br>
+Zero-copy veri akışı, backpressure kontrolü ve kapsamlı benchmark altyapısı.<br>
 <b>Teknolojiler:</b> C++20 • CMake • Linux • perf<br>
-<b>Sonuç:</b> p99 gecikmede iyileşme ve throughput artışı
+<b>Sonuç:</b> p99 gecikme süresinde iyileşme ve throughput artışı.
 </p>
 
 <br>
 
 <p align="center">
 🧠 <b>Akıllı Cache Kütüphanesi (C++17)</b><br>
-LRU/LFU stratejileri, thread-safe tasarım, fuzz test<br>
-<b>Teknolojiler:</b> C++17 • gtest • sanitizers<br>
-<b>Sonuç:</b> Güvenli ve yüksek kapsama oranlı yapı
+LRU ve LFU stratejileri, thread-safe tasarım ve fuzz test yaklaşımı.<br>
+<b>Teknolojiler:</b> C++17 • gtest • sanitizer araçları<br>
+<b>Sonuç:</b> Daha güvenli bellek kullanımı ve yüksek test kapsama oranı.
 </p>
 
 <br>
 
 <p align="center">
 🛠️ <b>CLI Geliştirici Araç Seti (C++)</b><br>
-Proje iskeleti, build yardımcıları, log izleme<br>
+Proje iskeleti oluşturma, build yardımcıları ve log izleme altyapısı.<br>
 <b>Teknolojiler:</b> C++20 • fmt • spdlog • CMake<br>
-<b>Sonuç:</b> Daha hızlı geliştirme süreci
+<b>Sonuç:</b> Daha hızlı ve standartlaştırılmış geliştirme süreci.
 </p>
 
 ---
