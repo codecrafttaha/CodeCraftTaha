@@ -61,55 +61,6 @@
   <img src="https://img.shields.io/badge/Test-gtest%20%7C%20benchmark-222222?style=for-the-badge"/>
 </p>
 
----
-
-<h2 align="center">📌 Uzmanlık Alanlarım</h2>
-
-<p align="center">
-💻 <b>Sistem Seviyesi C++</b><br>
-RAII • Move Semantics • Template Metaprogramming • Concurrency<br><br>
-
-⚡ <b>Performans Mühendisliği</b><br>
-Benchmark Tasarımı • Profiling • Cache-Friendly Design • Lock-Free Yaklaşım<br><br>
-
-🏗️ <b>Yazılım Mimarisi</b><br>
-Modüler Tasarım • Net Bağımlılık Sınırları • Sürdürülebilir API Yapısı<br><br>
-
-🚀 <b>Teslimat Süreçleri</b><br>
-CI/CD • Kod İnceleme • Dokümantasyon • Reproducible Build
-</p>
-
----
-
-<h2 align="center">🧪 Öne Çıkan Projeler</h2>
-
-<p align="center">
-⚡ <b>Düşük Gecikmeli Mesajlaşma Altyapısı (C++20)</b><br>
-Zero-copy veri akışı, backpressure kontrolü, benchmark altyapısı<br>
-<b>Teknolojiler:</b> C++20 • CMake • Linux • perf<br>
-<b>Sonuç:</b> p99 gecikmede iyileşme ve throughput artışı
-</p>
-
-<br>
-
-<p align="center">
-🧠 <b>Akıllı Cache Kütüphanesi (C++17)</b><br>
-LRU/LFU stratejileri, thread-safe tasarım, fuzz test<br>
-<b>Teknolojiler:</b> C++17 • gtest • sanitizers<br>
-<b>Sonuç:</b> Güvenli ve yüksek kapsama oranlı yapı
-</p>
-
-<br>
-
-<p align="center">
-🛠️ <b>CLI Geliştirici Araç Seti (C++)</b><br>
-Proje iskeleti, build yardımcıları, log izleme<br>
-<b>Teknolojiler:</b> C++20 • fmt • spdlog • CMake<br>
-<b>Sonuç:</b> Daha hızlı geliştirme süreci
-</p>
-
----
-
 <h2 align="center">📈 GitHub İstatistikleri</h2>
 
 <p align="center">
