@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/736x/b3/65/af/b365af02734efdf8cea73f0eff2f8920.jpg" width="800" alt="header"/>
 </p>
 
-<h1 align="center">Taha Öztürk</h1>
+<h1 align="center">Norevyn</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=750&lines=K%C4%B1demli+C%2B%2B+Geli%C5%9Ftirici;Y%C3%BCksek+Performansl%C4%B1+Sistemler+%7C+D%C3%BC%C5%9F%C3%BCk+Gecikme+%7C+Temiz+Mimari;Backend+%2F+Ara%C3%A7lar+%2F+M%C3%BChendislik+%C3%9Cr%C3%BCnleri;T%C3%BCrkiye'den+%F0%9F%87%B9%F0%9F%87%B7+%7C+G%C3%BCvenilir+Yaz%C4%B1l%C4%B1m+Teslimi" />
