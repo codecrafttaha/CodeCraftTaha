@@ -22,13 +22,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tahaozturk.creative@gmail.com">
+  <a href="mailto:@gmail.com">
     <img src="https://img.shields.io/badge/E--posta-tahaozturk.creative%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/@bytefyx">
+  <a href="https://www.youtube.com/@Norevyn">
     <img src="https://img.shields.io/badge/YouTube-Bytefyx-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/RWxM2Rt7">
+  <a href="https://discord.gg/">
     <img src="https://img.shields.io/badge/Discord-Toplulu%C4%9Fa%20Kat%C4%B1l-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
