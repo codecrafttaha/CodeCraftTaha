@@ -85,7 +85,7 @@
 <h2 align="center">🌐 İletişim</h2>
 
 <p align="center">
-📺 YouTube: [https://www.youtube.com/Norevyn](https://www.youtube.com/@Norevyn)<br>
+📺 YouTube: https://www.youtube.com/Norevyn<br>
 💬 Discord: https://discord.gg/RWxM2Rt7 <br>
 </p>
 
