@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/736x/b3/65/af/b365af02734efdf8cea73f0eff2f8920.jpg" width="900" alt="header"/>
 </p>
 
-<h1 align="center">Taha Öztürk</h1>
+<h1 align="center">Taha</h1>
 
 <p align="center">
   <b>C# / .NET Geliştirici</b><br>
