@@ -1,7 +1,7 @@
 <h1 align="center">Taha Öztürk</h1>
 
 <p align="center">
-C# / .NET Developer • AI destekli yazılım • Backend odaklı gelişim
+Developer • AI destekli yazılım • Backend odaklı gelişim
 </p>
 
 
