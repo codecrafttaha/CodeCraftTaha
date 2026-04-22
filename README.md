@@ -10,4 +10,3 @@ Developer • AI destekli yazılım • Backend odaklı gelişim
 
 - 📧 tahaozturk.creative@gmail.com  
 - 📺 YouTube: https://www.youtube.com/@Norevyn  
-- 💬 Discord: https://discord.gg/RWxM2Rt7  
