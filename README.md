@@ -1,19 +1,22 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/b8a31a12-3dc9-43e1-bb24-c32d919881e9" /><img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/1ed2afea-6d5b-4f8b-a3b2-2122f9b6b5b8" /><div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
-
-# Synax!
+<div align="center">
 
 <img src="https://i.hizliresim.com/tbsctx5.png" width="100%" />
+
+# Norevyn
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;C%2B%2B+Developer;SQL+%26+Database" />
+
 </div>
+
+---
 
 <table>
 <tr>
 <td width="30%" valign="top">
 
-<img src="https://i.pinimg.com/736x/7f/86/4e/7f864e3a667c4abdfba96831851f6e42.jpg" width="220" style="border-radius:50%;" />
+<img src="https://i.pinimg.com/736x/7f/86/4e/7f864e3a667c4abdfba96831851f6e42.jpg" width="220" />
 
-## Synax!
+## Norevyn
 ### Backend Developer
 
 > Branch out. Merge greatness.
@@ -33,14 +36,6 @@
 </td>
 
 <td width="70%" valign="top">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=150&section=header&text=Synax!&fontSize=60&fontColor=0d1117&fontAlign=30&desc=Backend%20Developer&descAlign=65&descAlignY=55" width="100%"/>
-
-</div>
-
-<br>
 
 <h2 align="center">Know About Me</h2>
 
@@ -106,14 +101,14 @@ Backend system for managing structured data.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
 
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
