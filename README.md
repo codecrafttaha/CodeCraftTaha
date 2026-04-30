@@ -1,10 +1,10 @@
-<div align="center">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/b8a31a12-3dc9-43e1-bb24-c32d919881e9" /><img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/1ed2afea-6d5b-4f8b-a3b2-2122f9b6b5b8" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 
 # Synax!
 
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008f84724682b2d72277934d88&ts=493771&p=fs&cid=1&sig=81d4e4505ff73b4fa2cdc7c63ed92655f8d8e4cf331c2cfdaff50da1b45b3419&v=0" width="100%" />
+<img src="https://i.hizliresim.com/tbsctx5.png" width="100%" />
 </div>
 
 <table>
