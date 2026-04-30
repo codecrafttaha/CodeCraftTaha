@@ -23,7 +23,6 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/7f/86/4e/7f864e3a667c4abdfba96831851f6e42.jpg" width="180"/>
 
 <br><br>
 
