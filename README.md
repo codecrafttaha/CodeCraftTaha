@@ -49,7 +49,7 @@
 
 <h2 align="center">Know About Me</h2>
 
-<img align="left" src="https://hizliresim.com/ldrwkub" width="170"/>
+<img align="left" src="https://i.hizliresim.com/ldrwkub.gif" width="170"/>
 
 ### Hey there! I'm **Taha**
 
