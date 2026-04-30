@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d8dde8d5-8cb9-457d-8f78-3a437f0b760b" /><div align="center">
+<div align="center">
 
 <img src="https://i.hizliresim.com/tbsctx5.png" width="100%" />
 
@@ -14,10 +14,16 @@
 <tr>
 <td width="30%" valign="top">
 
-<img src="https://i.pinimg.com/736x/7f/86/4e/7f864e3a667c4abdfba96831851f6e42.jpg" width="220" />
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/7f/86/4e/7f864e3a667c4abdfba96831851f6e42.jpg" width="200"/>
 
 ## Norevyn
 ### Backend Developer
+
+</div>
+
+<br>
 
 > Branch out. Merge greatness.
 
@@ -30,8 +36,12 @@
 
 ## 🏆 Achievements
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70"/>
+<div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60"/>
+
+</div>
 
 </td>
 
@@ -39,7 +49,7 @@
 
 <h2 align="center">Know About Me</h2>
 
-<img align="left" src="https://i.hizliresim.com/ldrwkub.gif" width="180"/>
+<img align="left" src="https://hizliresim.com/ldrwkub" width="170"/>
 
 ### Hey there! I'm **Taha**
 
@@ -54,17 +64,21 @@ I mainly work with **C++ and SQL**, building fast and efficient backend systems.
 <h2 align="center">Top Projects</h2>
 
 ### ⚙️ High Performance API
-Low-level backend service built with C++ for speed and efficiency.
+Low-level backend service built with C++ for speed and efficiency.  
 
 `C++` `Sockets` `Multithreading`
 
+---
+
 ### 🗄️ Database Engine Project
-Custom query handling and data processing system.
+Custom query handling and data processing system.  
 
 `C++` `SQL` `Data Structures`
 
+---
+
 ### 📊 Data Management System
-Backend system for managing structured data.
+Backend system for managing structured data.  
 
 `SQL` `Database Design`
 
@@ -74,8 +88,8 @@ Backend system for managing structured data.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B"/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
@@ -85,9 +99,9 @@ Backend system for managing structured data.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/KULLANICI_ADIN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/LINKEDIN_ADIN)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail)](mailto:MAIL_ADRESIN)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICI_ADIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_ADIN)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MAIL_ADRESIN)
 
 </div>
 
@@ -112,3 +126,11 @@ Backend system for managing structured data.
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+
+</div>
