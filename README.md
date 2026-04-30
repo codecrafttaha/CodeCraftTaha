@@ -99,9 +99,9 @@ Backend system for managing structured data.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICI_ADIN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_ADIN)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MAIL_ADRESIN)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
 
@@ -110,27 +110,5 @@ Backend system for managing structured data.
 > Code is never finished. It only becomes slightly less terrible over time.
 
 ---
-
-<h2 align="center">Contribution</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=github-compact&hide_border=true&area=true" width="95%" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 
 </div>
