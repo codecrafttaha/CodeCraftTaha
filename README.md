@@ -4,7 +4,7 @@
 
 # Synax!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Developer;Database+%26+Server+Side+Logic" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;C%2B%2B+Developer;SQL+%26+Database" />
 
 </div>
 
@@ -49,10 +49,9 @@
 
 ### Hey there! I'm **Taha**
 
-I'm a **Backend Developer** focused on building clean, secure and scalable server-side applications.
+I'm a **Backend Developer** focused on performance, low-level optimization and database systems.
 
-I work with APIs, databases, authentication systems and backend architecture.  
-My goal is to write code that is not only working, but also maintainable, readable and production-ready.
+I mainly work with **C++ and SQL**, building fast and efficient backend systems.
 
 <br clear="left"/>
 
@@ -60,20 +59,20 @@ My goal is to write code that is not only working, but also maintainable, readab
 
 <h2 align="center">Top Projects</h2>
 
-### 🔐 Auth System API
-Secure authentication system with register, login, JWT token and role-based authorization.
+### ⚙️ High Performance API
+Low-level backend service built with C++ for speed and efficiency.
 
-`Node.js` `Express.js` `JWT` `PostgreSQL`
+`C++` `Sockets` `Multithreading`
 
-### 📦 Inventory API
-Backend system for managing products, categories, stock and users.
+### 🗄️ Database Engine Project
+Custom query handling and data processing system.
 
-`NestJS` `TypeORM` `PostgreSQL` `Docker`
+`C++` `SQL` `Data Structures`
 
-### 🧾 Blog REST API
-REST API for blog posts, users, comments and admin management.
+### 📊 Data Management System
+Backend system for managing structured data.
 
-`Django` `DRF` `SQLite/PostgreSQL`
+`SQL` `Database Design`
 
 ---
 
@@ -81,16 +80,8 @@ REST API for blog posts, users, comments and admin management.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql"/>
 
 </div>
 
@@ -103,15 +94,12 @@ REST API for blog posts, users, comments and admin management.
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/KULLANICI_ADIN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/LINKEDIN_ADIN)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail)](mailto:MAIL_ADRESIN)
-[![Resume](https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readme)](RESUME_LINKI)
 
 </div>
 
 ---
 
 > Code is never finished. It only becomes slightly less terrible over time.
-
-> Every commit I make is essentially just a small, desperate apology to my future self.
 
 ---
 
@@ -120,9 +108,6 @@ REST API for blog posts, users, comments and admin management.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=github-dark-blue&hide_border=true" width="48%"/>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
