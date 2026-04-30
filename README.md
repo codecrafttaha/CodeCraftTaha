@@ -4,7 +4,11 @@
 
 # Norevyn
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;C%2B%2B+Developer;SQL+%26+Database" />
+<a href="#english-version">
+<img src="https://img.shields.io/badge/ENGLISH-VIEW-black?style=for-the-badge"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Geliştirici;C%2B%2B+Developer;SQL+%26+Veritabanı" />
 
 </div>
 
@@ -19,22 +23,15 @@
 <img src="https://i.pinimg.com/736x/7f/86/4e/7f864e3a667c4abdfba96831851f6e42.jpg" width="200"/>
 
 ## Norevyn
-### Backend Developer
+### Backend Geliştirici
 
 </div>
 
 <br>
 
-> Branch out. Merge greatness.
+> Dalından çık. Büyük işler yap.
 
-<br>
-
-**👥 Followers:** 3  
-**🔗 Following:** 7  
-
-<br>
-
-## 🏆 Achievements
+## 🏆 Başarılar
 
 <div align="center">
 
@@ -47,44 +44,44 @@
 
 <td width="70%" valign="top">
 
-<h2 align="center">Know About Me</h2>
+<h2 align="center">Hakkımda</h2>
 
 <img align="left" src="https://i.hizliresim.com/ldrwkub.gif" width="170"/>
 
-### Hey there! I'm **Taha**
+### Selam, ben **Taha**
 
-I'm a **Backend Developer** focused on performance, low-level optimization and database systems.
+Performans, düşük seviye optimizasyon ve veritabanı sistemleri üzerine odaklanan bir **Backend Geliştiricisiyim**.
 
-I mainly work with **C++ and SQL**, building fast and efficient backend systems.
+Ağırlıklı olarak **C++ ve SQL** kullanarak hızlı ve verimli backend sistemleri geliştiriyorum.
 
 <br clear="left"/>
 
 ---
 
-<h2 align="center">Top Projects</h2>
+<h2 align="center">Öne Çıkan Projeler</h2>
 
-### ⚙️ High Performance API
-Low-level backend service built with C++ for speed and efficiency.  
+### ⚙️ Yüksek Performanslı API
+C++ ile geliştirilmiş hızlı ve verimli backend servisi.  
 
 `C++` `Sockets` `Multithreading`
 
 ---
 
-### 🗄️ Database Engine Project
-Custom query handling and data processing system.  
+### 🗄️ Veritabanı Motoru Projesi
+Özel sorgu işleme ve veri yönetim sistemi.  
 
 `C++` `SQL` `Data Structures`
 
 ---
 
-### 📊 Data Management System
-Backend system for managing structured data.  
+### 📊 Veri Yönetim Sistemi
+Yapılandırılmış verileri yöneten backend sistemi.  
 
 `SQL` `Database Design`
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Kullandığım Teknolojiler</h2>
 
 <div align="center">
 
@@ -95,7 +92,7 @@ Backend system for managing structured data.
 
 ---
 
-<h2 align="center">Connect</h2>
+<h2 align="center">İletişim</h2>
 
 <div align="center">
 
@@ -107,8 +104,16 @@ Backend system for managing structured data.
 
 ---
 
-> Code is never finished. It only becomes slightly less terrible over time.
+> Kod asla bitmez. Sadece zamanla biraz daha az kötü hale gelir.
 
 ---
 
-</div>
+</td>
+</tr>
+</table>
+
+---
+
+<a name="english-version"></a>
+
+# 🇬🇧 English Version (yakında eklenebilir)
