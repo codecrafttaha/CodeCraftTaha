@@ -4,7 +4,7 @@
 
 # Synax!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;C%2B%2B+Developer;SQL+%26+Database" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;C%2B%2B+Developer;SQL+%26+Database](https://chatgpt.com/backend-api/estuary/content?id=file_000000008f84724682b2d72277934d88&ts=493771&p=fs&cid=1&sig=81d4e4505ff73b4fa2cdc7c63ed92655f8d8e4cf331c2cfdaff50da1b45b3419&v=0)" />
 
 </div>
 
