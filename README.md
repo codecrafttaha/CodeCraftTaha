@@ -1,4 +1,4 @@
-<div align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d8dde8d5-8cb9-457d-8f78-3a437f0b760b" /><div align="center">
 
 <img src="https://i.hizliresim.com/tbsctx5.png" width="100%" />
 
@@ -39,7 +39,7 @@
 
 <h2 align="center">Know About Me</h2>
 
-<img align="left" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="180"/>
+<img align="left" src="https://i.hizliresim.com/ldrwkub.gif" width="180"/>
 
 ### Hey there! I'm **Taha**
 
