@@ -59,7 +59,7 @@
 
 <br>
 
-<img align="left" src="" width="150" style="margin-right:20px"/>
+
 
 ### Selam, ben **Taha**
 
