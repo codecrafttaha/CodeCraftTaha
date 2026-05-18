@@ -65,7 +65,6 @@
 
 Performans, düşük seviye optimizasyon ve veritabanı sistemleri üzerine odaklanan bir backend geliştiricisiyim.
 
-Ağırlıklı olarak **C++ ve SQL** kullanarak hızlı, optimize ve sürdürülebilir sistemler geliştiriyorum.
 
 <br clear="left"/>
 
@@ -73,28 +72,7 @@ Ağırlıklı olarak **C++ ve SQL** kullanarak hızlı, optimize ve sürdürüle
 
 <h2 align="center">Projeler</h2>
 
-<br>
 
-### ⚙️ High Performance API
-C++ ile yazılmış yüksek performanslı backend servis.
-
-`C++` `Sockets` `Multithreading`
-
-<br>
-
-### 🗄️ Database Engine
-Özel veri işleme ve sorgu sistemi.
-
-`C++` `SQL` `Data Structures`
-
-<br>
-
-### 📊 Data System
-Veri yönetimi ve yapılandırma sistemi.
-
-`SQL` `Database Design`
-
----
 
 <h2 align="center">Tech Stack</h2>
 
