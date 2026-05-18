@@ -82,6 +82,7 @@ Performans, düşük seviye optimizasyon ve veritabanı sistemleri üzerine odak
 
 <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 </div>
 
